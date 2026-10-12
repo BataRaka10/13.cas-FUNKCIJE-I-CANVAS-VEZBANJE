@@ -7,6 +7,22 @@
  * 
  */
 
+let clickEvent = []; // [x, y], [x, y]
+
+let canvasElement = document.getElementById("drawArea")
+
+let context = canvasElement.getContext("2d")
+
+
+canvasElement.addEventListener("click",  function(e) {
+
+    
+
+
+})
+
+
+
 
 
 
